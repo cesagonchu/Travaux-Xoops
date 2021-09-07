@@ -24,11 +24,11 @@ mouseover:"au passage de la souris",
 mouseout:"\u00e0 la sortie de la souris",
 misc:"Divers",
 example_img:"Apparence aper\u00e7u image",
-missing_alt:"\u00cates-vous s\u00fbr de vouloir continuer sans inclure une description de l'image ? Sans cette description, l'image peut ne pas \u00eatre accessible \u00e0 certains utilisateurs moins valides, ou \u00e0 ceux qui utilisent un navigateur texte, ou qui naviguent sur internet avec les images d\u00e9sactiv\u00e9es.",
-dialog_title:"Explorateur d'images Xoops",
-src:"Lien de l'image",
-alt:"Description de l'image",
-list:"Liste d'images",
+missing_alt:"\u00cates-vous s\u00fbr de vouloir continuer sans inclure une description de l\'image ? Sans cette description, l\'image peut ne pas \u00eatre accessible \u00e0 certains utilisateurs moins valides, ou \u00e0 ceux qui utilisent un navigateur texte, ou qui naviguent sur internet avec les images d\u00e9sactiv\u00e9es.",
+dialog_title:"Explorateur d\'images Xoops",
+src:"Lien de l\'image",
+alt:"Description de l\'image",
+list:"Liste d\'images",
 border:"Bordure",
 dimensions:"Dimensions",
 vspace:"Espacement vertical",
@@ -42,14 +42,14 @@ align_texttop:"Haut du texte",
 align_textbottom:"Bas du texte",
 align_left:"Gauche",
 align_right:"Droite",
-image_list:"Liste d'images"
+image_list:"Liste d\'images"
 });
 
 tinyMCE.addI18n('fr.xoopsimagebrowser_dlg',{
-dialog_title:"Navigateur d'image Xoops",
+dialog_title:"Navigateur d\'images Xoops",
 tab_listimages:"Images",
 tab_loadimage:"Ajouter une image",
 tab_listcategories:"Cat\u00e9gories",
 tab_createcategory:"Ajouter une cat\u00e9gorie",
-select_image: "cliquez sur l'image pour la s\u00e9lectionner"
+select_image: "cliquez sur l\'image pour la s\u00e9lectionner"
 });
