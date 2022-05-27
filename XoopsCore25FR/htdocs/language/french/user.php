@@ -9,10 +9,10 @@ define('_US_LOSTPASSWORD', 'Mot de passe perdu ?');
 define('_US_NOPROBLEM', 'Aucun problème. Saisissez simplement l\'adresse courriel de votre compte que nous avons enregistré.');
 define('_US_YOUREMAIL', 'Votre Courriel :');
 define('_US_SENDPASSWORD', 'Envoyer le mot de passe');
-define('_US_LOGGEDOUT', 'Vous êtes maintenant connecté');
-define('_US_THANKYOUFORVISIT', 'Merci de votre visite sur notre site !');
+define('_US_LOGGEDOUT', 'Vous êtes maintenant déconnecté');
+define('_US_THANKYOUFORVISIT', 'Merci pour votre visite sur notre site !');
 define('_US_INCORRECTLOGIN', 'Identifiant incorrect !');
-define('_US_LOGGINGU', 'Merci de votre connexion, %s.');
+define('_US_LOGGINGU', 'Merci pour votre connexion, %s.');
 // 2001-11-17 ADD
 define('_US_NOACTTPADM', 'L\'utilisateur sélectionné a été désactivé ou n\'a pas encore été activé.<br>Merci de contacter l\'administrateur pour les détails.');
 define('_US_ACTKEYNOT', 'Clé d\'activation incorrecte !');
